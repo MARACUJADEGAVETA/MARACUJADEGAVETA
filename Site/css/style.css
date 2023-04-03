@@ -1,0 +1,192 @@
+header{
+    background-color: rgb(22, 22, 22);
+    width: 100%;
+    display: flex;
+    position: absolute;
+    top: 0;
+}
+
+.textoH{
+    font-size: 70px;
+    font-family: 'Rowdies', cursive;
+    position: absolute;
+    left: 860px;
+    top: 5px;
+}
+
+.img1{
+    width: 500px;
+    position: absolute;
+    left: 30px;
+    top: 90px;
+    display: flex;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: aliceblue;
+}
+
+body{
+    background-image: url(../img/background.jpg);
+}
+
+.textoH{
+    color: aliceblue
+}
+
+.PA1{
+    color: aliceblue;
+    position: absolute;
+    left: 600px; top: 105px; right: 20px;
+    font-size: 25px;
+    font-family: 'Cardo', serif;
+    letter-spacing: 1px;
+}
+
+.PA2{
+    color: aliceblue;
+    position: absolute;
+    left: 600px; top: 260px; right: 20px;
+    font-size: 25px;
+    font-family: 'Cardo', serif;
+    letter-spacing: 1px;
+}
+
+.PA3{
+    color: aliceblue;
+    position: absolute;
+    left: 600px; top: 430px; right: 20px;
+    font-size: 25px;
+    font-family: 'Cardo', serif;
+    letter-spacing: 1px;
+}
+
+.PA4{
+    color: aliceblue;
+    position: absolute;
+    left: 600px; top: 540px; right: 20px;
+    font-size: 25px;
+    font-family: 'Cardo', serif;
+    letter-spacing: 1px;
+}
+
+.PA5{
+    color: aliceblue;
+    position: absolute;
+    left: 600px; top: 650px; right: 20px;
+    font-size: 25px;
+    font-family: 'Cardo', serif;
+    letter-spacing: 1px;
+}
+
+.PA6{
+    color: aliceblue;
+    position: absolute;
+    left: 600px; top: 750px; right: 20px;
+    font-size: 25px;
+    font-family: 'Cardo', serif;
+    letter-spacing: 1px;
+}
+
+.img2{
+    width: 500px;
+    position: absolute;
+    top: 880px;
+    left: 970px;
+    display: flex;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: aliceblue;
+}
+
+.img3{
+    width: 500px;
+    display: flex;
+    position: absolute;
+    top: 1215px;
+    left: 440px;
+    border-radius: 20px;
+}
+
+.TT1{
+    color: rgb(187, 176, 30);
+    display: flex;
+    position: absolute;
+    top: 880px;
+    left: 610px;
+    right: 620  px;
+    font-family: 'Cardo', serif;
+    font-size: 35px;
+}
+
+.PATI1{
+    color: rgb(80, 203, 219);
+    display: flex;
+    position: absolute;
+    font: 20px;
+    top: 960px;
+    left: 600px;
+    right: 600px;
+    font-family: 'Cardo', serif;
+    font-size: 25px;
+}
+
+.PATI2{
+    color: rgb(94, 175, 247);
+    display: flex;
+    position: absolute;
+    font: 20px;
+    top: 1060px;
+    left: 600px;
+    right: 600px;
+    font-family: 'Cardo', serif;
+    font-size: 25px;
+}
+
+.TT2{
+    color: rgb(187, 176, 30);
+    display: flex;
+    position: absolute;
+    top: 1225px;
+    left: 75px;
+    right: 1090px;
+    font-family: 'Cardo', serif;    
+    font-size: 35px;
+}
+
+.PATI3{
+    color: rgb(95, 217, 233);
+    display: flex;
+    position: absolute;
+    top: 1325px;
+    left: 75px;
+    right: 1185px;
+    font-family: 'Cardo', serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+.img4{
+    width: 500px;
+    display: flex;
+    position: absolute;
+    top: 800px;
+    left: 60px;
+    border-radius: 15px;
+}
+
+.textoF{
+    color: aliceblue;
+    font-size: 14px;
+    position: relative;
+    top: 9px;
+    padding-left: 80px;
+}
+
+footer{
+    background-color: rgb(22, 22, 22);
+    display: flex;
+    width: 100%;
+    position: absolute;
+    height: 40px;
+    top: 1600px;
+}
